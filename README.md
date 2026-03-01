@@ -76,3 +76,5 @@ Drawing from extensive experience, I approach testing not as an afterthought, bu
 
 ## 💡 Key Takeaway
 This project demonstrates how a senior developer approaches mobile application structure: minimizing technical debt from day one, ensuring every layer is highly testable, and building an architecture capable of accommodating shifting product requirements without tearing down the foundations.
+
+Built with ❤️ by Mohammed Shahil
